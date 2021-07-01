@@ -20,6 +20,8 @@ use App\Http\Controllers\ProductController;
 //     return view('welcome');
 // });
 Route::get('/',[ProductController::class,'index']);
+Route::get('detail/{id}',[ProductController::class,'detail']);
+
 
 
 Route::view('login','layout.login');

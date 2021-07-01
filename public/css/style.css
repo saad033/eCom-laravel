@@ -7,4 +7,21 @@ body {
 padding-top: 50px;
 padding-bottom:200px ;
   }
+  .carousel-caption{
+    color:black;
+  }
+  .trending-wrapper
+  {
+    margin:20px;
+  }
+  .trending-img
+  {
+    height: 100px;
+
+  }
+  .trending-items
+  {
+    float: left;
+    width:20%;
+  }
   
