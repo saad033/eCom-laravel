@@ -24,4 +24,12 @@ padding-bottom:200px ;
     float: left;
     width:20%;
   }
+  .detail-img
+  {
+    height:200px;
+  }
+  .search-box
+  {
+    width:700px !important;
+  }
   
